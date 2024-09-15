@@ -1,1 +1,3 @@
-# Laboratorio_Programaci-n-
+#Integrantes:
+#Blanca Yulissa Argueta Martínez 
+#Yohana Griselda Villalobos Segovia 
